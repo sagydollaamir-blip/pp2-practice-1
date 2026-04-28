@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Amir",
+        "email": "sagydollaamir@gmail.com",
+        "birthday": "2007-06-20",
+        "group": "Tuesday",
+        "phones": [
+            {
+                "number": "77015037821",
+                "type": "home"
+            }
+        ]
+    }
+]
